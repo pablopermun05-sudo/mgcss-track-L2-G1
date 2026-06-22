@@ -352,8 +352,11 @@ Proyecto académico - Curso 2025/26
 
 Para preguntas sobre el proyecto, contactar con el grupo L2-G1.
 
+## Actualización
+* Prueba adicional de evaluación individual MGCSS.
+
 ---
 
-*Última actualización:* 4 de junio de 2026  
+*Última actualización:* 22 de junio de 2026  
 *Versión:* 0.0.1-SNAPSHOT  
 *Estado:* En desarrollo activo
