@@ -29,6 +29,7 @@
 	<properties>
     <java.version>17</java.version>
     <sonar.organization>pablopermun05-sudo</sonar.organization>
+    <sonar.projectKey>mgcss-track-L2-G1</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
