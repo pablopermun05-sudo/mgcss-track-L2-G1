@@ -34,6 +34,6 @@ jobs:
         run: |
           ./mvnw -B verify sonar:sonar \
             -Dsonar.host.url=https://sonarcloud.io \
-            -Dsonar.organization=proria1999 \
-            -Dsonar.projectKey=proria1999_mgcss-track-L2-G1 \
+            -Dsonar.organization=pablopermun05-sudo \
+            -Dsonar.projectKey=mgcss-track-l2-g1 \
             -Dsonar.token=${{ secrets.SONAR_TOKEN }}
